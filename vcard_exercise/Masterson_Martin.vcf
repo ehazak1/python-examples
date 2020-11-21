@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Masterson;Martin
+FN:Martin Masterson
+ORG:California Raisin Co.
+TITLE:Asst Raisin Smusher
+TEL;WORK;VOICE:559-555-2348
+ADR;WORK;PREF:;;100 Waters Edge;Baytown;CA;90210;United States of America
+EMAIL:martin@example.com
+END:VCARD

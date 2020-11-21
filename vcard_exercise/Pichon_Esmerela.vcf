@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Pichon;Esmerela
+FN:Esmerela Pichon
+ORG:California Raisin Co.
+TITLE:Head Raisin Counter
+TEL;WORK;VOICE:559-555-2397
+ADR;WORK;PREF:;;100 Waters Edge;Baytown;CA;90210;United States of America
+EMAIL:esmerelda@example.com
+END:VCARD

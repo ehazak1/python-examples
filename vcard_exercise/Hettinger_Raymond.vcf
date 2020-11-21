@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Hettinger;Raymond
+FN:Raymond Hettinger
+ORG:California Raisin Co.
+TITLE:VP Raisin Smushing
+TEL;WORK;VOICE:559-555-1212
+ADR;WORK;PREF:;;100 Waters Edge;Baytown;CA;90210;United States of America
+EMAIL:raymond@example.com
+END:VCARD

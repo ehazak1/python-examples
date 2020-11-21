@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Marks;Blair
+FN:Blair Marks
+ORG:California Raisin Co.
+TITLE:VP Investor Relations
+TEL;WORK;VOICE:559-555-6513
+ADR;WORK;PREF:;;100 Waters Edge;Baytown;CA;90210;United States of America
+EMAIL:blair@example.com
+END:VCARD

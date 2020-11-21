@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Schmidt;Gertrude
+FN:Gertrude Schmidt
+ORG:California Raisin Co.
+TITLE:VP Business Development
+TEL;WORK;VOICE:559-555-6700
+ADR;WORK;PREF:;;100 Waters Edge;Baytown;CA;90210;United States of America
+EMAIL:gertrude@example.com
+END:VCARD
